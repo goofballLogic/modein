@@ -1,0 +1,16 @@
+{
+  "name": "modein",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goofballLogic/modein.git"
+  },
+  "author": "goofballLogic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goofballLogic/modein/issues"
+  },
+  "homepage": "https://github.com/goofballLogic/modein#readme"
+}
